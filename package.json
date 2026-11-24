@@ -1,0 +1,8 @@
+{
+  "name": "formsathi",
+  "version": "1.0.0",
+  "description": "A multilingual student opportunity and learning platform",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node server.js"},
+  "dependencies": {"express": "^4.21.2"}
+}
